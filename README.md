@@ -1,2 +1,3 @@
 # pair-game
-Игра "Найди пару". Html, css, js.
+- find a couple game
+- Html, css, javascript.
